@@ -39,7 +39,9 @@
     "chalk": "^1.1.1",
     "deep-freeze": "0.0.1",
     "ejs": "^2.3.4",
+    "jsonwebtoken": "^5.5.4",
     "lodash": "^3.10.1",
+    "mongoose": "^3.9.7",
     "ncp": "^2.0.0",
     "objob": "^2.7.9",
     "yargs": "^3.31.0"
