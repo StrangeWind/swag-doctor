@@ -13,7 +13,7 @@ let elements = require('./_actions-elements.js')(ob, faker, mongoose, jwt, defin
 let beats = require('./_actions-beats.js')(ob, faker, mongoose, jwt, definitions, errors, headers);
 
 module.exports = {
-  name: 'StoryShop REST API - SWAAAG',
+  name: 'StoryShop REST API',
   description: 'Documentation for all versions of the REST API',
   paths: {
     /********
