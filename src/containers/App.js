@@ -21,7 +21,6 @@ data = deepFreeze(data);
 class App extends Component{
   constructor() {
     super();
-
     this.handleToggle = this.handleToggle.bind(this);
     this.state = {
       hideSideNav: true,
